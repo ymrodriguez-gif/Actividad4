@@ -59,7 +59,7 @@ Para ejecutar el dashboard en tu propia máquina, sigue estos pasos:
    python -m venv venv
    venv\Scripts\activate
 
-   En macOS/Linux:
+En macOS/Linux:
 
    ```bash
    python3 -m venv venv
