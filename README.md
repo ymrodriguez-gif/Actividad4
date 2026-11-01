@@ -58,13 +58,13 @@ Para ejecutar el dashboard en tu propia máquina, sigue estos pasos:
    ```bash
    python -m venv venv
    venv\Scripts\activate
-```
+   ```
    En macOS/Linux:
 
    ```bash
    python3 -m venv venv
    source venv/bin/activate
-```
+   ```
 3. **Instalar las dependencias:**
     ```bash
    pip install -r requirements.txt
